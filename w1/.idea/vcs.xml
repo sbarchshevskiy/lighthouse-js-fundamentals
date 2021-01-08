@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d1-focal/lunch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d1-focal/min" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d2-focal/d9dd084041c67cecaa7e1febbf5d2b01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d2-focal/debuggingErrors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lotide" vcs="Git" />
+  </component>
+</project>

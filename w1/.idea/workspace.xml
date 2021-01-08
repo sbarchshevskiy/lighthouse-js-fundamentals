@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99f385cb-da06-4981-9b3d-5c8d6d2a5274" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/CaseMaker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/ageCalculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/areaCalculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/arraysOfFlavours.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/bakeoff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/bananaBread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/bouncycastles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/caseMaker2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/changeCalc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/changeCalculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/concatTwoArrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/csum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/dmd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/drivingMayorDaisy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/highestNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/howManyHundreds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/inTheAirTonight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/instrName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/instrName2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/iterArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/kata#3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/lastIndexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/loopyLHL2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/loopyLightHouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/mergeTwoArrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/multiplicationTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/percentEncoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/perfectShot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/pigLatin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/repeatingNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/reverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/shcoolAge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/smartParking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/sumLN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/talkingCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/trainStation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/trashOrTreasure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/vegetableBoi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LHLpractice/vowels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/w1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d2-focal/d9dd084041c67cecaa7e1febbf5d2b01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d2-focal/debuggingErrors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d2-focal/dice-roller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lotide/assertEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lotide/head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lotide/tail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exrc1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lighthouse-js-fundametals/conditionals.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LHLpractice/conditionals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lighthouse-js-fundametals/kata#3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LHLpractice/chorus-while.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d1-focal/lunch/lunch.js" beforeDir="false" afterPath="$PROJECT_DIR$/d1-focal/lunch/lunch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d1-focal/min/min.js" beforeDir="false" afterPath="$PROJECT_DIR$/d1-focal/min/min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2-focal/d9dd084041c67cecaa7e1febbf5d2b01/joinList.js" beforeDir="false" afterPath="$PROJECT_DIR$/d2-focal/d9dd084041c67cecaa7e1febbf5d2b01/joinList.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mffxq7OYaiml735a2W5RO0ik27" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f385cb-da06-4981-9b3d-5c8d6d2a5274" name="Default Changelist" comment="" />
+      <created>1609889814411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609889814411</updated>
+      <workItem from="1609889815958" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
