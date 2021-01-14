@@ -17,7 +17,7 @@ const connect = function (){
     console.log(data);
   });
   conn.on('connect', () =>{
-    conn.write('name: sbs ');
+    conn.write('Name: SBA');
   });
   return conn;
 }
@@ -26,8 +26,5 @@ const connect = function (){
 //   conn.on()
 // }
 
-setupInput()
+module.exports = {connect};
 
-
-console.log('Connecting ...');
-connect();
