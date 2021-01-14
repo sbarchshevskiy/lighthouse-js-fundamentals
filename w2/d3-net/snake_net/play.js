@@ -3,6 +3,11 @@ const server = net.createServer();
 const stdin = process.stdin;
 
 
+
+// process.stdin.on('data', (key) => {
+//   process.stdout.write('.');
+// });
+
 /**
  * Establishes connection with the game server
  */
@@ -18,8 +23,25 @@ const connect = function() {
   });
   return conn;
 }
+//tutored code from Anil DM
+const setupInput = () => {
+  const stdin = process.stdin;
+  stdin.setRawMode(true);
+  stdin.setEncoding('utf8');
+  stdin.resume();
 
+  stdin.on('data', handleUserInput)
+  return stdin;
+}
+
+const handleUserInput = (data) => {
+  if('\u0003' === data){
+    process.exit();
+  }
+};
 console.log('Connecting ...');
 connect();
 
-module.exports = connect
+module.exports = connect;
+module.exports = setupInput;
+module.exports = handleUserInput();
