@@ -1,4 +1,6 @@
 const net = require('net');
+const { IP, PORT } = require('./constants');
+
 // const name = 'sb';
 // const stdin = process.stdin;
 
