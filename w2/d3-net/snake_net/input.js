@@ -27,7 +27,15 @@ const handleUserInput = (data, conn) => {
   conn.write('Move: right');
   } else if('a' === data) {
     conn.write('Move: left');
+  } else if ('z' === data){
+    conn.write('imsleepy')
+  } else if ('c' === data){
+    conn.write('imhungry')
   }
 };
+
+const specialMessages = (data, conn) => {
+
+}
 module.exports = {setupInput};
 
