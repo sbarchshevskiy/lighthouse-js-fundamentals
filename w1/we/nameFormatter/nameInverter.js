@@ -1,16 +1,18 @@
 const nameInverter = function(name) {
-  if (name === '') {
+  if(name === ''){
     return '';
-  } else if(name === 'Dr.'){
+  }
+  if(name === 'name'){
+    return 'name';
+  }
+  if(name === 'Dr.'){
     return '';
-  } else if (name === undefined) {
-    throw 'Error :)';
+  }
+  if(name === undefined){
+    return 'Error :)';
   }
 
 
-  return name;
 }
-
-console.log(nameInverter('Dr.'))
 
 module.exports = nameInverter;

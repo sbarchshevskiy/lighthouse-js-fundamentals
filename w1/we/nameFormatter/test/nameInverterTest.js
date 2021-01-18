@@ -16,10 +16,10 @@ describe('nameInverter', function() {
     assert.equal(nameInverter(inputName), expectedOutput);
   });
 
+
   it('should return an error for undefined', function() {
     const inputName = undefined;
-    const expectedOutput = 'Error :)'
-    assert.equal(nameInverter(inputName), expectedOutput);
+    const expectedOutput = "Error :)";
   });
 
   it('should return a empty string when passed a specific honorific', function() {
@@ -27,5 +27,28 @@ describe('nameInverter', function() {
     const expectedOutput = "";
     assert.equal(nameInverter(inputName), expectedOutput);
   });
+  it('should return a empty string when passed a specific honorific', function() {
+    const inputName = "first last";
+    const expectedOutput = "last, first";
+    assert.equal(nameInverter(inputName), expectedOutput);
+  });
+  it('should return a empty string when passed a specific honorific', function() {
+    const inputName = "first last";
+    const expectedOutput = "last, first";
+    assert.equal(nameInverter(inputName), expectedOutput);
+  });
+  it('should return a empty string when passed a specific honorific', function() {
+    const inputName = "Dr. first-name last-name";
+    const expectedOutput = "Dr. last-name, first-name";
+    assert.equal(nameInverter(inputName), expectedOutput);
+  });
+  it('should return a empty string when passed a specific honorific', function() {
+    const inputName = " Dr. first-name last-name ";
+    const expectedOutput = "Dr. last-name, first-name";
+    assert.equal(nameInverter(inputName), expectedOutput);
+  });
+
+
+
 
 });
